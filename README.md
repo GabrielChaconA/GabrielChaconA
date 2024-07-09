@@ -1,16 +1,12 @@
-## Hi there 👋
+<h1> HELLOW THERE !</h1>
 
-<!--
-**GabrielChaconA/GabrielChaconA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<body> 
+  <div class="flex-container">
+    <div class="img1">
+        <img src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg" alt="Java Logo" height="100">
+    </div>
+    <div class="img2">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png" alt="Python Logo" height="100">
+    </div>
+  </div>
+</body>
