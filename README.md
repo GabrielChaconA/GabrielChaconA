@@ -11,7 +11,9 @@ About me:
   1.Collaborative Team Player: Excels in a team environment, working effectively with diverse groups to achieve project goals.
 <br>
 2.Passionate Programmer: Demonstrates a deep enthusiasm for coding, constantly seeking to improve and innovate in software development.
+ <br>
 3.Strong Communication Skills: Proficient in articulating ideas and solutions clearly and effectively in English, both in writing and verbally.
+ <br>
 4.Problem-Solving Mindset: Approaches challenges with a proactive and solution-oriented attitude, contributing valuable insights to team discussions.
   <br>
 5.Adaptable and Quick Learner: Thrives in dynamic settings, quickly assimilating new technologies and methodologies to enhance team performance.
