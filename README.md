@@ -1,9 +1,9 @@
-# HELLOW THERE !
+#  HELLOW THERE !
+
+
+<img src="https://github.com/GabrielChaconA/ChaconArellanoGabriel-POO-GrupoA-20241/blob/examen/unidad4/@gabochack7.png?raw=true" width="1000" height="400">
 
 I am Gabriel, a student of Systems Engineering with a strong desire to learn and work. My passion for technology drives me to continuously seek new knowledge and skills, allowing me to grow both personally and professionally.
-
-<img src="https://merida.anahuac.mx/hs-fs/hubfs/apreu/Blog/2019%20Blog%20APREU/APREU%20Blog%20-%20Abril%2019/dribbble-shot_6.gif?width=800&name=dribbble-shot_6.gif" alt="Description of GIF" width="400" height="200">
-
 ## About me:
 
 1. Collaborative Team Player: Excels in a team environment, working effectively with diverse groups to achieve project goals.
