@@ -1,8 +1,12 @@
-#  HELLOW THERE !
 
+<div align="center">
+  <h2> HELLO THERE! <𝚜𝚢𝚜𝚝𝚎𝚖𝚜 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚜𝚝𝚞𝚍𝚎𝚗𝚝/> </h2>
+</div>
+
+</a></h1>
 
 <img src="https://github.com/GabrielChaconA/ChaconArellanoGabriel-POO-GrupoA-20241/blob/examen/unidad4/@gabochack7.png?raw=true" width="1000" height="400">
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 I am Gabriel, a student of Systems Engineering with a strong desire to learn and work. My passion for technology drives me to continuously seek new knowledge and skills, allowing me to grow both personally and professionally.
 ## About me:
 
