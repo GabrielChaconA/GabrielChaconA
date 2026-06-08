@@ -1,74 +1,140 @@
 <div align="center">
-  <h2> HELLO THERE! <𝚜𝚢𝚜𝚝𝚎𝚖𝚜 𝚎𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 & junior developer/> </h2>
+
+# 👋 Hello, I'm Gabriel Chacón
+
+### Systems Engineering Student | Founder of DevStarLabs | Project Manager & Backend Lead
+
+Building scalable software, backend systems, databases, and AI-powered solutions.
+
+<a href="https://www.linkedin.com/in/gabriel-chac%C3%B3n-arellano-29ab29257/">
+  <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Chacón-blue?style=for-the-badge&logo=linkedin">
+</a>
+
 </div>
 
-<img src="https://github.com/GabrielChaconA/ChaconArellanoGabriel-POO-GrupoA-20241/blob/examen/unidad4/@gabochack7.png?raw=true" width="1000" height="500">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-I am **Gabriel**, a Systems Engineering student and **Junior Developer** with a strong interest in backend development, database design, and problem-solving through code. I enjoy learning by building projects and continuously improving my technical skills.
+<img src="https://github.com/GabrielChaconA/ChaconArellanoGabriel-POO-GrupoA-20241/blob/examen/unidad4/@gabochack7.png?raw=true" width="1000">
 
 ---
 
-## 🧑‍💻 Junior Developer Profile
+# 🚀 About Me
 
-- Focused on **backend development** and software fundamentals  
-- Experience working with **databases and data modeling**  
-- Comfortable collaborating in team-based projects using Git  
-- Strong interest in clean code, logic, and scalable solutions  
+I'm **Gabriel Chacón**, a Systems Engineering student passionate about software development, backend engineering, database systems, artificial intelligence, and software architecture.
 
----
+Currently, I am the **Founder of DevStarLabs** and serve as **Project Manager & Backend Lead**, where I coordinate software projects, design backend solutions, and help transform ideas into scalable applications.
 
-## 💻 Technical Skills
-
-### Programming Languages
-- **Python**
-- **Java**
-- **JavaScript**
-- **HTML**
-- **CSS**
-
-### Databases
-- **PostgreSQL**
-- **MariaDB**
-- **Microsoft SQL Server**
-- **MongoDB**
-
-### Tools & Practices
-- Git & GitHub  
-- Basic REST concepts  
-- Object-Oriented Programming (OOP)  
-- CRUD operations  
+I enjoy learning by building real-world projects, solving problems through technology, and continuously improving my engineering skills.
 
 ---
 
-## 📚 Selected Courses & Certifications
+# 🏢 Current Roles
 
-- **Python: Estructuras de Datos y Algoritmos – Masterclass**  
-  Data structures, algorithmic thinking, and problem solving (Udemy)
+## 🚀 Founder — DevStarLabs
 
-- **Universidad Java – De Cero a Experto (+155 hrs)**  
-  Object-oriented programming, Spring fundamentals, and backend concepts (Udemy)
- - **Bases de datos SQL y NoSQL con MySQL y MongoDB** – Database design, relational models, queries and NoSQL fundamentals (Udemy)
+Technology-focused initiative dedicated to software development, innovation, and practical engineering solutions.
 
-- **Ingeniería de Software para Principiantes** – Software development fundamentals, lifecycle, and best practices (Udemy)
+## 💼 Project Manager & Backend Lead
 
----
-
-## 🎯 Current Goals
-
-- Strengthen backend development skills  
-- Improve database design and optimization  
-- Build more real-world projects  
-- Deepen understanding of software architecture  
+- Project planning and coordination
+- Backend architecture design
+- Database modeling and optimization
+- Team collaboration and workflow management
+- Software development and deployment
 
 ---
 
-## 📫 Connect with Me
+# 💻 Technical Skills
+
+## Programming Languages
+- Python
+- Java
+- JavaScript
+- HTML5
+- CSS3
+
+## Databases
+- PostgreSQL
+- MySQL
+- MariaDB
+- Microsoft SQL Server
+- MongoDB
+
+## Software Development
+- Backend Development
+- REST APIs
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- CRUD Applications
+- Database Design
+- Database Modeling
+- Software Engineering Fundamentals
+
+## Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision (Learning)
+
+## Tools & Technologies
+- Git
+- GitHub
+- Visual Studio Code
+- IntelliJ IDEA
+- Docker (Learning)
+
+## Professional Skills
+- Project Management
+- Team Leadership
+- Technical Documentation
+- Problem Solving
+- Analytical Thinking
+
+---
+
+# 📚 Courses & Certifications
+
+## Udemy
+
+- Universidad Java – De Cero a Experto (+155 hrs)
+- Python: Estructuras de Datos y Algoritmos MASTERCLASS
+- Ingeniería de Software para Principiantes
+- Bases de Datos SQL y NoSQL con MySQL y MongoDB
+- Inteligencia Artificial y Deep Learning desde Cero en Python
+- Machine Learning, Data Science & AI Engineering with Python
+- Blender 3D para Principiantes: Guía de Modelado y Texturizado
+- Cambridge C1 Exam Preparation Course (CAE)
+
+## Instituto Gestalt
+
+- Certificate of Proficiency in English (RWCT) & French (B1)
+- Formación para el Trabajo en Administración con Orientación Empresarial
+
+---
+
+# 🎯 Current Focus
+
+- Backend Development
+- Database Engineering
+- Artificial Intelligence
+- Computer Vision Projects
+- Software Architecture
+- Cloud Technologies
+- Scalable Systems
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
 
 <a href="mailto:gabochack7@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email me" width="40" height="40">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="mailto:gabochack7@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email me" width="40" height="40">
+<a href="https://www.linkedin.com/in/gabriel-chac%C3%B3n-arellano-29ab29257/">
+  <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Chacón-blue?style=for-the-badge&logo=linkedin">
 </a>
+
+</div>
+
+---
+
+> *"Learning by building, leading by example, and growing through technology."*
