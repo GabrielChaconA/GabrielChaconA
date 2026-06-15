@@ -156,7 +156,7 @@ https://gabriel-chacon-portfolio.onrender.com/#about
 
 ### DevStarLabs
 
-https://devstar-web.onrender.com/#servicios
+https://devstar-web-1.onrender.com
 
 ---
 
