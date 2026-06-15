@@ -172,8 +172,8 @@ https://devstar-web-1.onrender.com
   <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Chacón-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://devstar-web.onrender.com/#servicios">
-  <img src="https://devstar-web-1.onrender.com">
+<a href="https://devstar-web-1.onrender.com">
+  <img src="https://img.shields.io/badge/DevStarLabs-Website-purple?style=for-the-badge">
 </a>
 
 <a href="https://gabriel-chacon-portfolio.onrender.com/#about">
