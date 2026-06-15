@@ -11,7 +11,7 @@ Building scalable software, backend systems, databases, and AI-powered solutions
   <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Chacón-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://devstar-web.onrender.com/#servicios">
+<a href="[https://devstar-web.onrender.com/#servicios](https://devstar-web-1.onrender.com/)">
   <img src="https://img.shields.io/badge/DevStarLabs-Website-purple?style=for-the-badge">
 </a>
 
@@ -43,7 +43,7 @@ I enjoy learning by building real-world projects, solving problems through techn
 
 Technology-focused initiative dedicated to software development, innovation, and practical engineering solutions.
 
-🌐 **Website:** https://devstar-web.onrender.com/#servicios
+🌐 **Website:** [https://devstar-web.onrender.com/#servicios](https://devstar-web-1.onrender.com/)
 
 ## 💼 Project Manager & Backend Lead
 
@@ -173,7 +173,7 @@ https://devstar-web.onrender.com/#servicios
 </a>
 
 <a href="https://devstar-web.onrender.com/#servicios">
-  <img src="https://img.shields.io/badge/DevStarLabs-Website-purple?style=for-the-badge">
+  <img src="[https://img.shields.io/badge/DevStarLabs-Website-purple?style=for-the-badge](https://devstar-web-1.onrender.com/)">
 </a>
 
 <a href="https://gabriel-chacon-portfolio.onrender.com/#about">
