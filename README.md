@@ -1,166 +1,189 @@
 <div align="center">
 
-# 👋 Hello, I'm Gabriel Chacón
+# Gabriel Chacón
 
-### Systems Engineering Student 
-###  Founder of DevStarLabs | Project Manager & Backend Lead | Project Manager at IEE
+### Backend Developer | Computer Systems Engineering Student
 
-Building scalable software, backend systems, databases, and AI-powered solutions.
+Building scalable backend systems, databases, APIs, and AI-powered solutions.
 
 <a href="https://www.linkedin.com/in/gabriel-chac%C3%B3n-arellano-29ab29257/">
   <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Chacón-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://devstar-web-1.onrender.com">
-  <img src="https://img.shields.io/badge/DevStarLabs-Website-purple?style=for-the-badge">
-</a>
-
-<a href="https://gabriel-chacon-portfolio.onrender.com/#about">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-success?style=for-the-badge">
+<a href="https://gabriel-chacon-portfolio.onrender.com">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge">
 </a>
 
 </div>
 
-<img src="https://github.com/GabrielChaconA/ChaconArellanoGabriel-POO-GrupoA-20241/blob/examen/unidad4/@gabochack7.png?raw=true" width="1000">
+<p align="center">
+  <img src="YOUR_GITHUB_BANNER_URL" width="100%">
+</p>
 
 ---
 
-# 🚀 About Me
+# About
 
-I'm **Gabriel Chacón**, a Systems Engineering student passionate about software development, backend engineering, database systems, artificial intelligence, and software architecture.
+I'm Gabriel Chacón, a Computer Systems Engineering student passionate about backend development, database engineering, software architecture, and artificial intelligence.
 
-Currently, I am the **Founder of DevStarLabs**, serve as **Project Manager & Backend Lead**, and act as **Head of Projects at IEE**, where I help identify talent, evaluate project opportunities, and support the development of innovative initiatives within the Computer Systems Engineering community.
+Currently, I serve as **Project Manager at IEEE**, where I coordinate engineering initiatives, identify technical talent, evaluate software projects, and promote collaboration within the Computer Systems Engineering community.
 
-I enjoy learning by building real-world projects, solving problems through technology, and continuously improving my engineering skills.
+I enjoy building real-world software, learning new technologies, and designing scalable solutions.
 
-🌐 **Portfolio:** https://gabriel-chacon-portfolio.onrender.com/#about
+Portfolio
 
----
-
-# 🏢 Current Roles
-
-## 🚀 Founder — DevStarLabs
-
-Technology-focused initiative dedicated to software development, innovation, and practical engineering solutions.
-
-🌐 **Website:** https://devstar-web-1.onrender.com
-
-## 💼 Project Manager & Backend Lead
-
-* Project planning and coordination
-* Backend architecture design
-* Database modeling and optimization
-* Team collaboration and workflow management
-* Software development and deployment
-
-## 🎓 Head of Projects — IEE, Instituto Tecnológico de Morelia
-
-* Identifying talent within the Computer Systems Engineering community
-* Connecting students with projects and development opportunities
-* Evaluating project proposals and their viability
-* Supporting project planning and team organization
-* Promoting innovation and collaboration among students
+https://gabriel-chacon-portfolio.onrender.com
 
 ---
 
-# 💻 Technical Skills
+# Experience
 
-## Programming Languages
+## Project Manager — IEEE
 
-* Python
-* Java
-* JavaScript
-* HTML5
-* CSS3
+- Coordinate engineering initiatives and collaborative projects.
+- Identify technical talent within the Computer Systems Engineering community.
+- Evaluate project proposals and their technical feasibility.
+- Support project planning and team organization.
+- Promote innovation and software development among students.
+
+---
+
+# Education
+
+## Instituto Tecnológico de Morelia
+
+**Bachelor's Degree in Computer Systems Engineering**
+
+Relevant Coursework
+
+- Object-Oriented Programming
+- Data Structures
+- Database Systems
+- Algorithms
+- Software Engineering
+- Operating Systems
+- Computer Networks
+- Web Development
+
+---
+
+# Featured Projects
+
+## Devlop API
+
+Educational REST API designed for learning computer science and programming concepts.
+
+**Tech Stack**
+
+- Laravel
+- PostgreSQL
+- Swagger
+- Docker
+
+---
+
+## Parking AI
+
+Computer vision project focused on detecting available parking spaces using artificial intelligence.
+
+**Tech Stack**
+
+- Python
+- OpenCV
+- YOLO
+- Machine Learning
+
+---
+
+## Personal Portfolio
+
+Modern portfolio showcasing projects, experience, and technical skills.
+
+**Tech Stack**
+
+- Vue.js
+- Vite
+- CSS
+- JavaScript
+
+---
+
+# Technical Skills
+
+## Languages
+
+- PHP
+- Python
+- Java
+- JavaScript
+- HTML
+- CSS
+
+## Backend
+
+- Laravel
+- REST APIs
+- Authentication
+- Software Architecture
+- Object-Oriented Programming
 
 ## Databases
 
-* PostgreSQL
-* MySQL
-* MariaDB
-* Microsoft SQL Server
-* MongoDB
-
-## Software Development
-
-* Backend Development
-* REST APIs
-* Object-Oriented Programming (OOP)
-* Data Structures & Algorithms
-* CRUD Applications
-* Database Design
-* Database Modeling
-* Software Engineering Fundamentals
+- PostgreSQL
+- MySQL
+- MariaDB
+- SQL Server
+- MongoDB
 
 ## Artificial Intelligence
 
-* Machine Learning
-* Deep Learning
-* Computer Vision (Learning)
+- Machine Learning
+- Deep Learning
+- Computer Vision
 
-## Tools & Technologies
+## Tools
 
-* Git
-* GitHub
-* Visual Studio Code
-* IntelliJ IDEA
-* Docker (Learning)
-
-## Professional Skills
-
-* Project Management
-* Team Leadership
-* Technical Documentation
-* Problem Solving
-* Analytical Thinking
+- Git
+- GitHub
+- Docker
+- Linux
+- Visual Studio Code
+- IntelliJ IDEA
 
 ---
 
-# 📚 Courses & Certifications
+# Currently Learning
+
+- Artificial Intelligence
+- Computer Vision
+- Cloud Computing
+- Distributed Systems
+- Software Architecture
+
+---
+
+# Courses & Certifications
 
 ## Udemy
 
-* Universidad Java – De Cero a Experto (+155 hrs)
-* Python: Estructuras de Datos y Algoritmos MASTERCLASS
-* Ingeniería de Software para Principiantes
-* Bases de Datos SQL y NoSQL con MySQL y MongoDB
-* Inteligencia Artificial y Deep Learning desde Cero en Python
-* Machine Learning, Data Science & AI Engineering with Python
-* Blender 3D para Principiantes: Guía de Modelado y Texturizado
-* Cambridge C1 Exam Preparation Course (CAE)
+- Java Programming Masterclass
+- Python Data Structures & Algorithms
+- Software Engineering
+- SQL & NoSQL Databases
+- Artificial Intelligence with Python
+- Machine Learning & Data Science
+- Blender 3D
+- Cambridge C1 Exam Preparation
 
 ## Instituto Gestalt
 
-* Certificate of Proficiency in English (RWCT) & French (B1)
-* Formación para el Trabajo en Administración con Orientación Empresarial
+- English Proficiency Certificate
+- French (B1)
+- Business Administration Training
 
 ---
 
-# 🎯 Current Focus
-
-* Backend Development
-* Database Engineering
-* Artificial Intelligence
-* Computer Vision Projects
-* Software Architecture
-* Cloud Technologies
-* Scalable Systems
-
----
-
-# 🌐 Websites
-
-### Portfolio
-
-https://gabriel-chacon-portfolio.onrender.com/#about
-
-### DevStarLabs
-
-https://devstar-web-1.onrender.com
-
----
-
-# 📫 Connect With Me
+# Contact
 
 <div align="center">
 
@@ -172,16 +195,12 @@ https://devstar-web-1.onrender.com
   <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Chacón-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://devstar-web-1.onrender.com">
-  <img src="https://img.shields.io/badge/DevStarLabs-Website-purple?style=for-the-badge">
-</a>
-
-<a href="https://gabriel-chacon-portfolio.onrender.com/#about">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-success?style=for-the-badge">
+<a href="https://gabriel-chacon-portfolio.onrender.com">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge">
 </a>
 
 </div>
 
 ---
 
-> *"Learning by building, leading by example, and growing through technology."*
+> "Building software that solves real problems."
