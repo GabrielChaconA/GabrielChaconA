@@ -1,11 +1,15 @@
 <div align="center">
 
-# Gabriel Chacón
+
+
+# Hello there!
+<p align="center">
+  <img src="assets/banner.png" width="100%">
+</p>
 
 ### Backend Developer | Computer Systems Engineering Student
 
 Building scalable backend systems, databases, APIs, and AI-powered solutions.
-
 <a href="https://www.linkedin.com/in/gabriel-chac%C3%B3n-arellano-29ab29257/">
   <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Chacón-blue?style=for-the-badge&logo=linkedin">
 </a>
@@ -16,9 +20,7 @@ Building scalable backend systems, databases, APIs, and AI-powered solutions.
 
 </div>
 
-<p align="center">
-  <img src="YOUR_GITHUB_BANNER_URL" width="100%">
-</p>
+
 
 ---
 
@@ -38,7 +40,7 @@ https://gabriel-chacon-portfolio.onrender.com
 
 # Experience
 
-## Project Manager — IEEE
+## <img src="assets/IEE.jpg" height="40" align="center" alt="IEEE Logo"> Project Manager — IEEE
 
 - Coordinate engineering initiatives and collaborative projects.
 - Identify technical talent within the Computer Systems Engineering community.
@@ -50,7 +52,7 @@ https://gabriel-chacon-portfolio.onrender.com
 
 # Education
 
-## Instituto Tecnológico de Morelia
+## <img src="assets/LOGO%20TEC.png" height="40" align="center" alt="Tec de Morelia Logo"> Instituto Tecnológico de Morelia
 
 **Bachelor's Degree in Computer Systems Engineering**
 
