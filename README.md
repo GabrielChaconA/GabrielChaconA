@@ -40,16 +40,6 @@ https://gabriel-chacon-portfolio.onrender.com
 
 # Experience
 
-## <img src="assets/IEE.jpg" height="40" align="center" alt="IEEE Logo"> Project Manager — IEEE
-
-- Coordinate engineering initiatives and collaborative projects.
-- Identify technical talent within the Computer Systems Engineering community.
-- Evaluate project proposals and their technical feasibility.
-- Support project planning and team organization.
-- Promote innovation and software development among students.
-
----
-
 # Education
 
 ## <img src="assets/LOGO%20TEC.png" height="40" align="center" alt="Tec de Morelia Logo"> Instituto Tecnológico de Morelia
