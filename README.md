@@ -10,17 +10,17 @@
 ### Backend Developer | Computer Systems Engineering Student
 
 Building scalable backend systems, databases, APIs, and AI-powered solutions.
-<a href="https://www.linkedin.com/in/gabriel-chac%C3%B3n-arellano-29ab29257/">
-  <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Chacón-blue?style=for-the-badge&logo=linkedin">
-</a>
 
-<a href="https://gabriel-chacon-portfolio.onrender.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge">
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-chac%C3%B3n-arellano-29ab29257/">
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Chacón-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://gabriel-chacon-portfolio.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge">
+  </a>
+</p>
 
 </div>
-
-
 
 ---
 
@@ -69,88 +69,60 @@ Relevant Coursework
 
 ---
 
-# Featured Projects
+## <img src="assets/michoacana-logo.png" height="40" align="center" alt="UMSNH Logo"> Universidad Michoacana de San Nicolás de Hidalgo (UMSNH)
 
-## Devlop API
+**English Language Training Program (9 Semesters)**
 
-Educational REST API designed for learning computer science and programming concepts.
+Comprehensive training in listening comprehension, speaking, reading, and academic writing.
 
-**Tech Stack**
-
-- Laravel
-- PostgreSQL
-- Swagger
-- Docker
-
----
-
-## Parking AI
-
-Computer vision project focused on detecting available parking spaces using artificial intelligence.
-
-**Tech Stack**
-
-- Python
-- OpenCV
-- YOLO
-- Machine Learning
-
----
-
-## Personal Portfolio
-
-Modern portfolio showcasing projects, experience, and technical skills.
-
-**Tech Stack**
-
-- Vue.js
-- Vite
-- CSS
-- JavaScript
+Development of competencies for technical communication and documentation in English.
 
 ---
 
 # Technical Skills
 
-## Languages
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-- PHP
-- Python
-- Java
-- JavaScript
-- HTML
-- CSS
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software_Architecture-4B32C3?style=for-the-badge&logoColor=white" />
+</p>
 
-## Backend
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-- Laravel
-- REST APIs
-- Authentication
-- Software Architecture
-- Object-Oriented Programming
+### Artificial Intelligence
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge&logoColor=white" />
+</p>
 
-## Databases
-
-- PostgreSQL
-- MySQL
-- MariaDB
-- SQL Server
-- MongoDB
-
-## Artificial Intelligence
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-
-## Tools
-
-- Git
-- GitHub
-- Docker
-- Linux
-- Visual Studio Code
-- IntelliJ IDEA
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+</p>
 
 ---
 
