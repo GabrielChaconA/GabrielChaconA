@@ -97,12 +97,7 @@ Development of competencies for technical communication and documentation in Eng
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### Artificial Intelligence
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge&logoColor=white" />
-</p>
+
 
 ### Tools
 <p>
@@ -111,7 +106,6 @@ Development of competencies for technical communication and documentation in Eng
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
 ---
@@ -142,7 +136,6 @@ Development of competencies for technical communication and documentation in Eng
 ## Instituto Gestalt
 
 - English Proficiency Certificate
-- French (B1)
 - Business Administration Training
 
 ---
