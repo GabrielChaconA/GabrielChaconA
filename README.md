@@ -32,7 +32,7 @@ Currently, I serve as **Project Manager at IEEE**, where I coordinate engineerin
 
 I enjoy building real-world software, learning new technologies, and designing scalable solutions.
 
-Portfolio
+# Portfolio
 
 https://gabriel-chacon-portfolio.onrender.com
 
